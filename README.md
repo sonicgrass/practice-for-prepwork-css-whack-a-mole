@@ -322,4 +322,4 @@ example below, and then come up with your own ideas.
 [Empty playing field]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-Responsive-Design/interactivity/assets/mole-game-1.png
 [Moles randomly popping up]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-Responsive-Design/interactivity/assets/moles-randomly-popping-up.gif
 [Final game movie]:
-https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-Responsive-Design/interactivity/assets/moles-bonus-final.gif
+https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-Responsive-Design/interactivity/assets/moles-bonus-final.gif# practice-for-prepwork-css-whack-a-mole
